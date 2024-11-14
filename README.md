@@ -20,5 +20,5 @@ If number is 5 or 6 => We draw next point at half distance from p to p3.
 
 # References
 
-[Raylib Zig bindings](https://github.com/Not-Nik/raylib-zig)
+[Raylib Zig bindings](https://github.com/Not-Nik/raylib-zig)\
 [Chaos theory](https://en.wikipedia.org/wiki/Chaos_theory)
