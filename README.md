@@ -1,6 +1,6 @@
 # sierpinski-triangle
 
-Sierpinski triangle in [Zig](https://ziglang.org/) using [Raylib](https://www.raylib.com/)\
+[Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) in [Zig](https://ziglang.org/) using [Raylib](https://www.raylib.com/)\
 <img src="https://github.com/xndrg/sierpinski-triangle/blob/main/triangle.png?raw=true" width="400" />
 
 # Get Started
@@ -21,3 +21,4 @@ If number is 5 or 6 => We draw next point at half distance from p to p3.
 # References
 
 [Raylib Zig bindings](https://github.com/Not-Nik/raylib-zig)
+[Chaos theory](https://en.wikipedia.org/wiki/Chaos_theory)
