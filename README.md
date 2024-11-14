@@ -1,6 +1,6 @@
 # sierpinski-triangle
 
-Sierpinski triangle in [Zig](https://ziglang.org/) using [Raylib](https://www.raylib.com/)
+Sierpinski triangle in [Zig](https://ziglang.org/) using [Raylib](https://www.raylib.com/)\
 <img src="https://github.com/xndrg/sierpinski-triangle/blob/main/triangle.png?raw=true" width="400" />
 
 # Get Started
