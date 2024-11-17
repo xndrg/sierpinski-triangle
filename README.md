@@ -15,7 +15,7 @@ There are 3 points on the screen at the beggining, which represent big triangle,
 And 1 point at random position within this rectangle, called p. It will be moved every frame.
 Every frame we generate random number from 1 to 6, just like throwing a dice.\
 If number is 1 or 2 => We draw next point at half distance from p to p1.\
-If number is 3 or 4 => We draw next point at half distance from p to p1.\
+If number is 3 or 4 => We draw next point at half distance from p to p2.\
 If number is 5 or 6 => We draw next point at half distance from p to p3.
 
 # References
